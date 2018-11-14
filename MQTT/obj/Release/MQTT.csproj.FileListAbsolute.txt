@@ -1,0 +1,133 @@
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\bin\Release\MQTT.exe.config
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\bin\Release\MQTT.exe
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\bin\Release\MQTT.pdb
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.dll
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.xml
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\obj\Release\MQTT.mqtt.resources
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\obj\Release\MQTT.Properties.Resources.resources
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\obj\Release\MQTT.csproj.GenerateResource.Cache
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\obj\Release\MQTT.exe
+d:\ho\documents\visual studio 2015\Projects\MQTT\MQTT\obj\Release\MQTT.pdb
+D:\project\부산대병원\MQTT\MQTT\bin\Release\MQTT.exe.config
+D:\project\부산대병원\MQTT\MQTT\obj\Release\MQTT.exe
+D:\project\부산대병원\MQTT\MQTT\obj\Release\MQTT.pdb
+D:\project\부산대병원\MQTT\MQTT\bin\Release\MQTT.exe
+D:\project\부산대병원\MQTT\MQTT\bin\Release\MQTT.pdb
+D:\project\부산대병원\MQTT\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\부산대병원\MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\부산대병원\MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.dll
+D:\project\부산대병원\MQTT\MQTT\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project\부산대병원\MQTT\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\project\부산대병원\MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.xml
+D:\project\부산대병원\MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\project\부산대병원\MQTT\MQTT\obj\Release\MQTT.csprojResolveAssemblyReference.cache
+D:\project\부산대병원\MQTT\MQTT\obj\Release\MQTT.mqtt.resources
+D:\project\부산대병원\MQTT\MQTT\obj\Release\MQTT.Properties.Resources.resources
+D:\project\부산대병원\MQTT\MQTT\obj\Release\MQTT.csproj.GenerateResource.Cache
+D:\project\부산대병원\MQTT_src\MQTT\bin\Release\MQTT.exe.config
+D:\project\부산대병원\MQTT_src\MQTT\obj\Release\MQTT.exe
+D:\project\부산대병원\MQTT_src\MQTT\obj\Release\MQTT.pdb
+D:\project\부산대병원\ver2_MQTT\MQTT\bin\Release\MQTT.exe.config
+D:\project\부산대병원\ver2_MQTT\MQTT\bin\Release\MQTT.exe
+D:\project\부산대병원\ver2_MQTT\MQTT\bin\Release\MQTT.pdb
+D:\project\부산대병원\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\부산대병원\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\부산대병원\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.dll
+D:\project\부산대병원\ver2_MQTT\MQTT\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project\부산대병원\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\project\부산대병원\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.xml
+D:\project\부산대병원\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\project\부산대병원\ver2_MQTT\MQTT\obj\Release\MQTT.csprojResolveAssemblyReference.cache
+D:\project\부산대병원\ver2_MQTT\MQTT\obj\Release\MQTT.mqtt.resources
+D:\project\부산대병원\ver2_MQTT\MQTT\obj\Release\MQTT.Properties.Resources.resources
+D:\project\부산대병원\ver2_MQTT\MQTT\obj\Release\MQTT.csproj.GenerateResource.Cache
+D:\project\부산대병원\ver2_MQTT\MQTT\obj\Release\MQTT.exe
+D:\project\부산대병원\ver2_MQTT\MQTT\obj\Release\MQTT.pdb
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\bin\Release\MQTT.exe.config
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\obj\Release\MQTT.exe
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\obj\Release\MQTT.pdb
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\obj\Release\MQTT.csprojResolveAssemblyReference.cache
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\obj\Release\MQTT.mqtt.resources
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\obj\Release\MQTT.Properties.Resources.resources
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\obj\Release\MQTT.csproj.GenerateResource.Cache
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\bin\Release\MQTT.exe
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\bin\Release\MQTT.pdb
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.dll
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.xml
+D:\project\PNUH_보이스 키보드\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\ver2_MQTT\MQTT\bin\Release\MQTT.exe.config
+D:\Downloads\ver2_MQTT\MQTT\obj\Release\MQTT.exe
+D:\Downloads\ver2_MQTT\MQTT\obj\Release\MQTT.pdb
+D:\Downloads\ver2_MQTT\MQTT\obj\Release\MQTT.csprojResolveAssemblyReference.cache
+D:\Downloads\ver2_MQTT\MQTT\obj\Release\MQTT.mqtt.resources
+D:\Downloads\ver2_MQTT\MQTT\obj\Release\MQTT.Properties.Resources.resources
+D:\Downloads\ver2_MQTT\MQTT\obj\Release\MQTT.csproj.GenerateResource.Cache
+D:\Downloads\ver2_MQTT\MQTT\bin\Release\MQTT.exe
+D:\Downloads\ver2_MQTT\MQTT\bin\Release\MQTT.pdb
+D:\Downloads\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.dll
+D:\Downloads\ver2_MQTT\MQTT\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Downloads\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.xml
+D:\Downloads\ver2_MQTT\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\bin\Release\MQTT.exe.config
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\obj\Release\MQTT.exe
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\obj\Release\MQTT.pdb
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\bin\Release\MQTT.exe
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\bin\Release\MQTT.pdb
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.Logging.dll
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.Logging.xml
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\obj\Release\MQTT.csprojResolveAssemblyReference.cache
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\obj\Release\MQTT.mqtt.resources
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\obj\Release\MQTT.Properties.Resources.resources
+D:\Downloads\PNUH_보이스키보드 1.0.1\PNUH_보이스키보드 1.0.1\MQTT\obj\Release\MQTT.csproj.GenerateResource.Cache
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\bin\Release\MQTT.exe.config
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\obj\Release\MQTT.exe
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\obj\Release\MQTT.pdb
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\bin\Release\MQTT.exe
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\bin\Release\MQTT.pdb
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.Logging.dll
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.Logging.xml
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\obj\Release\MQTT.csprojResolveAssemblyReference.cache
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\obj\Release\MQTT.mqtt.resources
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\obj\Release\MQTT.Properties.Resources.resources
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.1\MQTT\obj\Release\MQTT.csproj.GenerateResource.Cache
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\MQTT.exe.config
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\obj\Release\MQTT.exe
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\obj\Release\MQTT.pdb
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\MQTT.exe
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\MQTT.pdb
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\Microsoft.Extensions.Logging.dll
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\Microsoft.Extensions.Logging.xml
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\obj\Release\MQTT.csprojResolveAssemblyReference.cache
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\obj\Release\MQTT.mqtt.resources
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\obj\Release\MQTT.Properties.Resources.resources
+D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\obj\Release\MQTT.csproj.GenerateResource.Cache
+D:\workspace\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\MQTT.exe.config
+D:\workspace\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\obj\Release\MQTT.exe
+D:\workspace\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\obj\Release\MQTT.pdb
