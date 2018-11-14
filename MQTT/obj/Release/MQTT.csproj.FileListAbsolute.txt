@@ -131,3 +131,19 @@ D:\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이�
 D:\workspace\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\bin\Release\MQTT.exe.config
 D:\workspace\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\obj\Release\MQTT.exe
 D:\workspace\project\PNUH_보이스 키보드\PNUH 보이스 키보드 1.0.2\PNUH 보이스키보드 1.0.2\MQTT\obj\Release\MQTT.pdb
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\bin\Release\MQTT.exe.config
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\obj\Release\MQTT.exe
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\obj\Release\MQTT.pdb
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\bin\Release\MQTT.exe
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\bin\Release\MQTT.pdb
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\bin\Release\Microsoft.Extensions.Logging.dll
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\bin\Release\Microsoft.Extensions.Logging.xml
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\obj\Release\MQTT.csprojResolveAssemblyReference.cache
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\obj\Release\MQTT.mqtt.resources
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\obj\Release\MQTT.Properties.Resources.resources
+D:\workspace\project\VoiceKeyboard\VoiceKeyboard\MQTT\obj\Release\MQTT.csproj.GenerateResource.Cache
