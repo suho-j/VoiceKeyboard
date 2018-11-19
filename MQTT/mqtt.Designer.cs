@@ -38,6 +38,8 @@
             System.Windows.Forms.Label label8;
             System.Windows.Forms.Label label10;
             System.Windows.Forms.Label label11;
+            System.Windows.Forms.Label label12;
+            System.Windows.Forms.Label label13;
             this.label9 = new System.Windows.Forms.Label();
             this.tbRecvMessage = new System.Windows.Forms.TextBox();
             this.tbStatus = new System.Windows.Forms.TextBox();
@@ -50,8 +52,8 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tbMemo = new System.Windows.Forms.TextBox();
             this.btnSave = new System.Windows.Forms.Button();
-            this.btnCopy = new System.Windows.Forms.Button();
-            this.btnRemove = new System.Windows.Forms.Button();
+            this.tbName = new System.Windows.Forms.TextBox();
+            this.tbDate = new System.Windows.Forms.TextBox();
             label7 = new System.Windows.Forms.Label();
             label4 = new System.Windows.Forms.Label();
             label3 = new System.Windows.Forms.Label();
@@ -62,6 +64,8 @@
             label8 = new System.Windows.Forms.Label();
             label10 = new System.Windows.Forms.Label();
             label11 = new System.Windows.Forms.Label();
+            label12 = new System.Windows.Forms.Label();
+            label13 = new System.Windows.Forms.Label();
             this.gbSettings.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -78,7 +82,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new System.Drawing.Point(15, 110);
+            label4.Location = new System.Drawing.Point(8, 110);
             label4.Name = "label4";
             label4.Size = new System.Drawing.Size(62, 12);
             label4.TabIndex = 7;
@@ -87,7 +91,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new System.Drawing.Point(15, 83);
+            label3.Location = new System.Drawing.Point(8, 83);
             label3.Name = "label3";
             label3.Size = new System.Drawing.Size(65, 12);
             label3.TabIndex = 4;
@@ -96,7 +100,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new System.Drawing.Point(15, 29);
+            label2.Location = new System.Drawing.Point(8, 29);
             label2.Name = "label2";
             label2.Size = new System.Drawing.Size(16, 12);
             label2.TabIndex = 3;
@@ -105,7 +109,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new System.Drawing.Point(15, 56);
+            label1.Location = new System.Drawing.Point(8, 56);
             label1.Name = "label1";
             label1.Size = new System.Drawing.Size(27, 12);
             label1.TabIndex = 1;
@@ -144,20 +148,40 @@
             // 
             label10.AutoSize = true;
             label10.ForeColor = System.Drawing.SystemColors.AppWorkspace;
-            label10.Location = new System.Drawing.Point(607, 306);
+            label10.Location = new System.Drawing.Point(623, 306);
             label10.Name = "label10";
-            label10.Size = new System.Drawing.Size(197, 12);
+            label10.Size = new System.Drawing.Size(173, 12);
             label10.TabIndex = 24;
-            label10.Text = "────────────────";
+            label10.Text = "──────────────";
             // 
             // label11
             // 
             label11.AutoSize = true;
-            label11.Location = new System.Drawing.Point(570, 306);
+            label11.Location = new System.Drawing.Point(577, 306);
             label11.Name = "label11";
             label11.Size = new System.Drawing.Size(33, 12);
             label11.TabIndex = 23;
             label11.Text = "Save";
+            // 
+            // label12
+            // 
+            label12.AutoSize = true;
+            label12.Font = new System.Drawing.Font("굴림", 11F);
+            label12.Location = new System.Drawing.Point(576, 354);
+            label12.Name = "label12";
+            label12.Size = new System.Drawing.Size(67, 15);
+            label12.TabIndex = 25;
+            label12.Text = "환자이름";
+            // 
+            // label13
+            // 
+            label13.AutoSize = true;
+            label13.Font = new System.Drawing.Font("굴림", 11F);
+            label13.Location = new System.Drawing.Point(576, 386);
+            label13.Name = "label13";
+            label13.Size = new System.Drawing.Size(37, 15);
+            label13.TabIndex = 27;
+            label13.Text = "날짜";
             // 
             // label9
             // 
@@ -179,26 +203,28 @@
             this.tbRecvMessage.Multiline = true;
             this.tbRecvMessage.Name = "tbRecvMessage";
             this.tbRecvMessage.Size = new System.Drawing.Size(550, 250);
-            this.tbRecvMessage.TabIndex = 14;
+            this.tbRecvMessage.TabIndex = 2;
+            this.tbRecvMessage.Enter += new System.EventHandler(this.tbRecvMessage_Enter);
+            this.tbRecvMessage.Leave += new System.EventHandler(this.tbRecvMessage_Leave);
             // 
             // tbStatus
             // 
             this.tbStatus.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.tbStatus.Enabled = false;
-            this.tbStatus.Location = new System.Drawing.Point(572, 237);
+            this.tbStatus.Location = new System.Drawing.Point(579, 237);
             this.tbStatus.Multiline = true;
             this.tbStatus.Name = "tbStatus";
             this.tbStatus.ReadOnly = true;
-            this.tbStatus.Size = new System.Drawing.Size(232, 40);
+            this.tbStatus.Size = new System.Drawing.Size(217, 40);
             this.tbStatus.TabIndex = 12;
             // 
             // btnConnectControl
             // 
             this.btnConnectControl.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnConnectControl.Location = new System.Drawing.Point(572, 196);
+            this.btnConnectControl.Location = new System.Drawing.Point(579, 196);
             this.btnConnectControl.Name = "btnConnectControl";
-            this.btnConnectControl.Size = new System.Drawing.Size(232, 35);
+            this.btnConnectControl.Size = new System.Drawing.Size(217, 35);
             this.btnConnectControl.TabIndex = 1;
             this.btnConnectControl.Text = "연결";
             this.btnConnectControl.UseVisualStyleBackColor = true;
@@ -216,41 +242,41 @@
             this.gbSettings.Controls.Add(this.tbIp);
             this.gbSettings.Controls.Add(label2);
             this.gbSettings.Controls.Add(label1);
-            this.gbSettings.Location = new System.Drawing.Point(572, 55);
+            this.gbSettings.Location = new System.Drawing.Point(579, 55);
             this.gbSettings.Name = "gbSettings";
-            this.gbSettings.Size = new System.Drawing.Size(230, 135);
+            this.gbSettings.Size = new System.Drawing.Size(217, 135);
             this.gbSettings.TabIndex = 16;
             this.gbSettings.TabStop = false;
             this.gbSettings.Text = "Settings";
             // 
             // tbPw
             // 
-            this.tbPw.Location = new System.Drawing.Point(96, 107);
+            this.tbPw.Location = new System.Drawing.Point(89, 107);
             this.tbPw.Name = "tbPw";
             this.tbPw.PasswordChar = '*';
-            this.tbPw.Size = new System.Drawing.Size(128, 21);
-            this.tbPw.TabIndex = 6;
+            this.tbPw.Size = new System.Drawing.Size(122, 21);
+            this.tbPw.TabIndex = 103;
             // 
             // tbId
             // 
-            this.tbId.Location = new System.Drawing.Point(96, 80);
+            this.tbId.Location = new System.Drawing.Point(89, 80);
             this.tbId.Name = "tbId";
-            this.tbId.Size = new System.Drawing.Size(128, 21);
-            this.tbId.TabIndex = 5;
+            this.tbId.Size = new System.Drawing.Size(122, 21);
+            this.tbId.TabIndex = 102;
             // 
             // tbPort
             // 
-            this.tbPort.Location = new System.Drawing.Point(96, 53);
+            this.tbPort.Location = new System.Drawing.Point(89, 53);
             this.tbPort.Name = "tbPort";
-            this.tbPort.Size = new System.Drawing.Size(128, 21);
-            this.tbPort.TabIndex = 2;
+            this.tbPort.Size = new System.Drawing.Size(122, 21);
+            this.tbPort.TabIndex = 101;
             // 
             // tbIp
             // 
-            this.tbIp.Location = new System.Drawing.Point(96, 26);
+            this.tbIp.Location = new System.Drawing.Point(89, 26);
             this.tbIp.Name = "tbIp";
-            this.tbIp.Size = new System.Drawing.Size(128, 21);
-            this.tbIp.TabIndex = 1;
+            this.tbIp.Size = new System.Drawing.Size(122, 21);
+            this.tbIp.TabIndex = 100;
             // 
             // pictureBox1
             // 
@@ -273,45 +299,47 @@
             this.tbMemo.Multiline = true;
             this.tbMemo.Name = "tbMemo";
             this.tbMemo.Size = new System.Drawing.Size(550, 117);
-            this.tbMemo.TabIndex = 18;
+            this.tbMemo.TabIndex = 3;
+            this.tbMemo.Enter += new System.EventHandler(this.tbMemo_Enter);
+            this.tbMemo.Leave += new System.EventHandler(this.tbMemo_Leave);
             // 
             // btnSave
             // 
             this.btnSave.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSave.Location = new System.Drawing.Point(572, 332);
+            this.btnSave.Location = new System.Drawing.Point(579, 414);
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(232, 35);
-            this.btnSave.TabIndex = 25;
+            this.btnSave.Size = new System.Drawing.Size(217, 35);
+            this.btnSave.TabIndex = 5;
             this.btnSave.Text = "저장(*.txt)";
             this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
-            // btnCopy
+            // tbName
             // 
-            this.btnCopy.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCopy.Location = new System.Drawing.Point(572, 373);
-            this.btnCopy.Name = "btnCopy";
-            this.btnCopy.Size = new System.Drawing.Size(232, 35);
-            this.btnCopy.TabIndex = 26;
-            this.btnCopy.Text = "전체 복사";
-            this.btnCopy.UseVisualStyleBackColor = true;
+            this.tbName.Font = new System.Drawing.Font("굴림", 12F);
+            this.tbName.Location = new System.Drawing.Point(668, 350);
+            this.tbName.Name = "tbName";
+            this.tbName.Size = new System.Drawing.Size(128, 26);
+            this.tbName.TabIndex = 4;
             // 
-            // btnRemove
+            // tbDate
             // 
-            this.btnRemove.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnRemove.Location = new System.Drawing.Point(572, 414);
-            this.btnRemove.Name = "btnRemove";
-            this.btnRemove.Size = new System.Drawing.Size(232, 35);
-            this.btnRemove.TabIndex = 27;
-            this.btnRemove.Text = "전체 지우기";
-            this.btnRemove.UseVisualStyleBackColor = true;
+            this.tbDate.Enabled = false;
+            this.tbDate.Font = new System.Drawing.Font("굴림", 12F);
+            this.tbDate.Location = new System.Drawing.Point(668, 382);
+            this.tbDate.Name = "tbDate";
+            this.tbDate.Size = new System.Drawing.Size(128, 26);
+            this.tbDate.TabIndex = 26;
             // 
             // mqtt
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(814, 461);
-            this.Controls.Add(this.btnRemove);
-            this.Controls.Add(this.btnCopy);
+            this.Controls.Add(label13);
+            this.Controls.Add(this.tbDate);
+            this.Controls.Add(label12);
+            this.Controls.Add(this.tbName);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(label10);
             this.Controls.Add(label11);
@@ -353,8 +381,8 @@
         private System.Windows.Forms.TextBox tbMemo;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Button btnSave;
-        private System.Windows.Forms.Button btnCopy;
-        private System.Windows.Forms.Button btnRemove;
+        private System.Windows.Forms.TextBox tbName;
+        private System.Windows.Forms.TextBox tbDate;
     }
 }
 

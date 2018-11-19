@@ -28,6 +28,7 @@ namespace MQTT
         string username; string password;
         string[] topics = new string[2];
         byte[] qosLevels = { MqttMsgBase.QOS_LEVEL_AT_MOST_ONCE, MqttMsgBase.QOS_LEVEL_AT_MOST_ONCE };
+        string tbState = "null";
         #endregion
 
         public mqtt()
@@ -85,11 +86,24 @@ namespace MQTT
                 string ReceivedMessage = Encoding.UTF8.GetString(e.Message);
 
                 Invalidate();
-                selStart = tbRecvMessage.SelectionStart;
-                tbRecvMessage.Text = tbRecvMessage.Text.Insert(selStart, ReceivedMessage);
+                switch (tbState)
+                {
+                    case "tbRecvMessage":
+                        selStart = tbRecvMessage.SelectionStart;
+                        tbRecvMessage.Text = tbRecvMessage.Text.Insert(selStart, ReceivedMessage);
 
-                selStart = selStart + ReceivedMessage.Length;   // 시작위치 + 붙여넣은 string의 길이 반환
-                tbRecvMessage.Select(selStart, 0); // 커서값 새로 설정
+                        selStart = selStart + ReceivedMessage.Length;   // 시작위치 + 붙여넣은 string의 길이 반환
+                        tbRecvMessage.Select(selStart, 0); // 커서값 새로 설정
+                        break;
+                    case "tbMemo":
+                        selStart = tbMemo.SelectionStart;
+                        tbMemo.Text = tbMemo.Text.Insert(selStart, ReceivedMessage);
+
+                        selStart = selStart + ReceivedMessage.Length;   // 시작위치 + 붙여넣은 string의 길이 반환
+                        tbMemo.Select(selStart, 0); // 커서값 새로 설정
+                        break;
+                }
+                
             }));
         }
 
@@ -147,6 +161,7 @@ namespace MQTT
                     isconnected = !isconnected;
                     IsOpen = isconnected;
                 }
+                tbRecvMessage.Focus();
             }
             catch (Exception ex)
             {
@@ -226,5 +241,69 @@ namespace MQTT
             }
         }
 
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            DateTime today = DateTime.Now;
+            tbDate.Text = string.Format("{0:yyMMdd_HHmm}", today);
+
+            try
+            {
+                SaveFileDialog sfd = new SaveFileDialog();
+                sfd.Filter = "txt|*.txt";
+                sfd.InitialDirectory = Application.StartupPath;
+                sfd.FileName = tbName.Text + "_" + tbDate.Text;
+                //sfd.Title = "Save The Data";
+                DialogResult result = sfd.ShowDialog();
+                
+                if(result == DialogResult.OK)
+                {
+                    using (FileStream fileStream = new FileStream(sfd.FileName, FileMode.Append, FileAccess.Write))
+                    {
+                        using (StreamWriter streamWriter = new StreamWriter(fileStream, System.Text.Encoding.UTF8))
+                        {
+
+
+                            string line1 = "Messages ---------------";
+                            string line2 = tbRecvMessage.Text;
+                            string line3 = "Memo ---------------";
+                            string line4 = tbMemo.Text;
+
+                            streamWriter.WriteLine(line1);
+                            streamWriter.WriteLine(line2);
+                            streamWriter.WriteLine();
+                            streamWriter.WriteLine(line3);
+                            streamWriter.WriteLine(line4);
+
+                            streamWriter.Flush();
+                            streamWriter.Close();
+                            fileStream.Close();
+                        }
+                    }
+                }
+                
+            }
+            catch { }
+        }
+
+        
+        private void tbRecvMessage_Enter(object sender, EventArgs e)
+        {
+            tbState = "tbRecvMessage";
+        }
+
+        private void tbRecvMessage_Leave(object sender, EventArgs e)
+        {
+            tbState = "null";
+        }
+
+        private void tbMemo_Enter(object sender, EventArgs e)
+        {
+            tbState = "tbMemo";
+        }
+
+        private void tbMemo_Leave(object sender, EventArgs e)
+        {
+            tbState = "null";
+        }
     }
 }
