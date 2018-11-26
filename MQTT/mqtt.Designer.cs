@@ -86,16 +86,16 @@
             label4.Name = "label4";
             label4.Size = new System.Drawing.Size(62, 12);
             label4.TabIndex = 7;
-            label4.Text = "PassWord";
+            label4.Text = "Password";
             // 
             // label3
             // 
             label3.AutoSize = true;
             label3.Location = new System.Drawing.Point(8, 83);
             label3.Name = "label3";
-            label3.Size = new System.Drawing.Size(65, 12);
+            label3.Size = new System.Drawing.Size(56, 12);
             label3.TabIndex = 4;
-            label3.Text = "UserName";
+            label3.Text = "사용자 ID";
             // 
             // label2
             // 

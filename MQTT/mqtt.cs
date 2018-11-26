@@ -277,6 +277,11 @@ namespace MQTT
                             streamWriter.Flush();
                             streamWriter.Close();
                             fileStream.Close();
+
+                            tbRecvMessage.Text = "";
+                            tbMemo.Text = "";
+                            tbName.Text = "";
+                            tbDate.Text = "";
                         }
                     }
                 }
